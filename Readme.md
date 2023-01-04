@@ -1,0 +1,1 @@
+Nft gurantee certificate generation
